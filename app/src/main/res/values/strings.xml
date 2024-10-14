@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DicodingEvent</string>
+    <string name="event_logo">Event Logo</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_summary">Event Summary</string>
+    <string name="event_banner">Event Banner</string>
+    <string name="event_description">Event Description</string>
+    <string name="event_register">Register</string>
+    <string name="event_owner">Event Owner</string>
+    <string name="event_time">Event Time</string>
+    <string name="event_quota">Event Quota</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="host_name">Host: %s</string>
+    <string name="quota_left">Quota Left: %d</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="upcoming_desc">Dont Miss The Next Event</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="finished_desc">Check Our Past Event</string>
+    <string name="title_setting">Setting</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_desc">Enable or Disable Dark Mode</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="title_home">Home</string>
+    <string name="desc_favorite">Favorite</string>
+    <string name="favorite_event">Favorite Event</string>
+    <string name="favorite_desc">Event That Suits For You</string>
+    <string name="item_favorite">Favorite</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="reminder_desc">Enable or Disable Reminder</string>
+</resources>

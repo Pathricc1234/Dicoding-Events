@@ -1,0 +1,72 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DicodingEvent" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/purple_700</item>
+        <!-- Secondary Color !-->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status Bar Color !-->
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+
+    <style name="TextContent">
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="TextContent.HRTitle">
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextContent.VTTitle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextContent.VTDesc">
+        <item name="android:textSize">12sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">3</item>
+    </style>
+
+    <style name="TextContent.HomeTitle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextContent.HomeSection">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextContent.Detail">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+    </style>
+
+    <style name="TextContent.Detail.Name">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TextContent.Detail.Info">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextContent.SettingTitle">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextContent.SettingName">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextContent.SettingDesc">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Theme.DicodingEvent" parent="Base.Theme.DicodingEvent" />
+</resources>
